@@ -4,7 +4,7 @@
 
 ###1. INTRODUCTION
 
-mexBBFMM3D is MATLAB interface for an open source package (BBFMM3D) of the <a href="http://www.sciencedirect.com/science/ article/pii/S0021999109004665">Black-box Fast Multipole Method</a> in 3 dimensions.   
+rBBFMM3D is an R interface for an open source package (BBFMM3D) of the <a href="http://www.sciencedirect.com/science/ article/pii/S0021999109004665">Black-box Fast Multipole Method</a> in 3 dimensions.   
 The Black-box Fast Multipole Method is an O(N) fast multipole method, which is a technique to calculate sums of the form  
 
 ![](http://latex.codecogs.com/gif.latex?f%28x_i%29%20%3D%20%5Cdisplaystyle%20%5Csum_%7Bj%3D1%7D%5EN%20K%28x_i%2Cy_j%29%20%5Csigma_j%2C%20%5C%2C%5C%2C%5C%2C%20%5Cforall%20i%20%5Cin%5C%7B1%2C2%2C%5Cldots%2CN%5C%7D)
